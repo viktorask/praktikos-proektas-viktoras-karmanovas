@@ -40,4 +40,48 @@ footer .container-fluid {
   width: 70%;
   padding: 30px; }
 
+#slider .carousel-caption {
+  font-style: italic;
+  bottom: 50%;
+  left: 25%;
+  color: white;
+  text-align: left; }
+
+#meniu .row div {
+  height: 120px; }
+#meniu .row a {
+  color: white; }
+#meniu .row #first {
+  background-color: #f73f4e;
+  padding: 30px 65px; }
+#meniu .row #first:hover {
+  opacity: 0.8; }
+#meniu .row #first:hover a {
+  text-decoration: none;
+  color: black; }
+#meniu .row #second {
+  background-color: #fe772d;
+  padding: 20px 65px; }
+#meniu .row #second:hover {
+  opacity: 0.8; }
+#meniu .row #second:hover a {
+  text-decoration: none;
+  color: black; }
+#meniu .row #third {
+  background-color: #f6d01d;
+  padding: 40px 65px; }
+#meniu .row #third:hover {
+  opacity: 0.8; }
+#meniu .row #third:hover a {
+  text-decoration: none;
+  color: black; }
+#meniu .row #fourth {
+  background-color: #2de850;
+  padding: 40px 65px; }
+#meniu .row #fourth:hover {
+  opacity: 0.8; }
+#meniu .row #fourth:hover a {
+  text-decoration: none;
+  color: black; }
+
 /*# sourceMappingURL=style.css.map */
