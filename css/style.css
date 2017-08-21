@@ -84,4 +84,13 @@ footer .container-fluid {
   text-decoration: none;
   color: black; }
 
+.navbar {
+  min-height: 100px;
+  margin-bottom: 0; }
+  .navbar img {
+    height: 80px; }
+  .navbar button.btn {
+    color: white;
+    background-color: grey; }
+
 /*# sourceMappingURL=style.css.map */

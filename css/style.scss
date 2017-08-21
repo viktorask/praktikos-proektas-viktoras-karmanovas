@@ -200,3 +200,22 @@ footer {
     }
   }
 }
+
+//navbar
+
+.navbar {
+
+min-height: 100px;
+  margin-bottom: 0;
+
+  img {
+
+    height: 80px;
+  }
+
+  button.btn {
+
+    color: white;
+    background-color: grey;
+  }
+}
